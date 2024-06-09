@@ -5,14 +5,14 @@ To run download Source code here
 
 To run use below command in terminal
 
-  npm i
+    npm i
 
 To run:
 
-  node index.js
+    node index.js
 
 To view output:
 Open your browser with
 
-  http://localhost:3000
+    http://localhost:3000
 
